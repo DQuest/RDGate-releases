@@ -2,7 +2,7 @@
 
 **Русский** · [English](#english)
 
-Здесь лежат готовые сборки [RDGate](https://github.com/DQuest/RDGate) — лаунчера RDP для macOS с UDP
+Здесь лежат готовые сборки RDGate — лаунчера RDP для macOS с UDP
 через RD Gateway. Исходники, описание и вопросы — в основном репозитории.
 
 ## Первая установка
@@ -49,7 +49,7 @@ RDGate распространяется по лицензии GPL-3.0-or-later.
 
 # RDGate releases
 
-Ready-made builds of [RDGate](https://github.com/DQuest/RDGate), an RDP launcher for macOS with UDP
+Ready-made builds of RDGate, an RDP launcher for macOS with UDP
 through RD Gateway. The source code, the documentation and issues are in the main repository.
 
 ## First install
